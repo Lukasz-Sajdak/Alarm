@@ -4,7 +4,7 @@
 
 This project implements an alarm system on the FRDM-KL05Z development board. The system detects movement and responds by triggering an alert when necessary.
 
-![20250123_161817 (1)](https://github.com/user-attachments/assets/819c02f9-298c-41db-8929-21b29132ccd6)
+![20250123_161817 (1)](https://github.com/user-attachments/assets/c0dedf2d-489f-4c77-a1b0-d6f46485e8b5)
 
 ## System Capabilities
 
